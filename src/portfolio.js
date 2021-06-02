@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import sitme from "./img/sitme.jpg";
 import ogadonate from "./img/ogadonate-img.png";
 import soupe from "./img/soupe-img.png";
 import sonenef from "./img/sonenef-img.png";
